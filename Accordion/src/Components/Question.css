@@ -1,0 +1,19 @@
+.questions-container{
+    width: 80vw;
+    background-color: #EEE;
+    border-radius: 20px;
+    margin: 20px auto;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    padding: 20px;
+}
+
+.questions-container>h1{
+    margin-bottom: 20px;
+    font-size: 24px;
+}
+
+@media only screen and (min-width:  1000px){
+    .questions-container{
+        width: 40vw;
+    }
+}
