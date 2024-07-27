@@ -5,3 +5,5 @@
 - [Accordian](Accordion/README.md)
 
 - [Random Color Generator](Random-Color-Generator/README.md)
+
+- [Image Slider](Image-Slider/README.md)
