@@ -19,7 +19,7 @@ A React Image Slider component that fetches images from a given URL and allows u
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/Piyushchannawar/Image-Slider.git
+    git clone https://github.com/Piyushchannawar/React-Mini-Projects.git
     cd Image-Slider
     ```
 

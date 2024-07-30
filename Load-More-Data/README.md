@@ -18,7 +18,7 @@ This is a simple Load More Data component built using React. It fetches product 
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/Piyushchannawar/Load-More-Data.git
+    git clone https://github.com/Piyushchannawar/React-Mini-Projects.git
     cd Load-More-Data
     ```
 

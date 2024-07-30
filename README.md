@@ -9,3 +9,5 @@
 - [Image Slider](Image-Slider/README.md)
 
 - [Load More Data](Load-More-Data/README.md)
+
+- [Qr Code Generator](QRCode-Generator/README.md)
